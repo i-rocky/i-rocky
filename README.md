@@ -33,9 +33,8 @@ Anything I like, is my expertise area. That's my speciality.
 * So far Open Source
     * [Country List](https://github.com/i-rocky/country-list-js)
     * [Animated Rainbow Text Generator](https://github.com/i-rocky/Rainbow)
-    * [ReactJS based File Manager](https://github.com/themexpert/react-file-manager)
     * [Fun stuff with JS](https://github.com/themexpert/onion)
-    * [VueJS Part](https://github.com/themexpert/hunt)
+    * [VueJS Part of Project `Hunt`](https://github.com/themexpert/hunt)
     * [Fun with ThreeJS](https://github.com/themexpert/threejs-experiments)
     * [Fun with p5](https://github.com/themexpert/p5-experiments)
     * [React File Manager - Client Side](https://github.com/themexpert/react-filemanager)
