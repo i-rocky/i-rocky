@@ -38,11 +38,11 @@ Anything I like, is my expertise area. That's my speciality.
     * [VueJS Part](https://github.com/themexpert/hunt)
     * [Fun with ThreeJS](https://github.com/themexpert/threejs-experiments)
     * [Fun with p5](https://github.com/themexpert/p5-experiments)
-    * [React File Manager Client Side Library](https://github.com/themexpert/react-filemanager)
-    * [React File Manager Server Side Library](https://github.com/themexpert/react-filemanager-server)
+    * [React File Manager - Client Side](https://github.com/themexpert/react-filemanager)
+    * [React File Manager - Server Side](https://github.com/themexpert/react-filemanager-server)
     * [FontAwesome plugin For React File Manager - Client Side](https://github.com/themexpert/rfm-plugin-fontawesome)
     * [FontAwesome plugin For React File Manager - Server Side](https://github.com/themexpert/rfms-plugin-fontawesome)
-    * [Icons plugin for Quix Page Builder(Only)](https://github.com/themexpert/react-filemanager-icons-plugin)
+    * [Icons plugin for React File Manager (Quix Page Builder Only)](https://github.com/themexpert/react-filemanager-icons-plugin)
 * Closed Source
     * Many...
 
