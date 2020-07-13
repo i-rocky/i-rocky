@@ -3,7 +3,7 @@
 Research & Development Engineer
 
 ### Expertise
-* _Unnecessary things like bot for_
+* _Bot program for_
     * collecting information
     * automating process
     * scraping content
