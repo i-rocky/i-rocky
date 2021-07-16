@@ -3,7 +3,7 @@
 Research & Development Engineer
 
 ### Expertise
-* _Bot program for_
+* Automation for_
     * collecting information
     * automating process
     * scraping content
@@ -21,10 +21,8 @@ Research & Development Engineer
     * CSS3
 * Frameworks
     * Laravel
-    * BootStrap
     * VueJS
-    * ReactJS
-    * AngularJS
+    * React
     * Angular
 * Database
     * MySQL
@@ -34,6 +32,7 @@ Research & Development Engineer
 ### Works
 
 * So far Open Source
+    * [Pusher Drop-In Replacement](https://github.com/thrivedesk/rofrof)
     * [Country List](https://github.com/i-rocky/country-list-js)
     * [Laravel Twilio](https://github.com/i-rocky/laravel-twilio)
     * [Mailgun Mailer for laravel](https://github.com/i-rocky/mailgun-mailer)
@@ -44,14 +43,15 @@ Research & Development Engineer
     * [VueJS Part of Project `Hunt`](https://github.com/themexpert/hunt)
     * [Fun with ThreeJS](https://github.com/themexpert/threejs-experiments)
     * [Fun with p5](https://github.com/themexpert/p5-experiment)
+    * [React File Manager](https://github.com/reactfilemanager)
     * [React File Manager - Client Side(abandoned)](https://github.com/themexpert/react-filemanager)
     * [React File Manager - Server Side(abandoned)](https://github.com/themexpert/react-filemanager-server)
     * [FontAwesome plugin For React File Manager - Client Side(abandoned)](https://github.com/themexpert/rfm-plugin-fontawesome)
     * [FontAwesome plugin For React File Manager - Server Side(abandoned)](https://github.com/themexpert/rfms-plugin-fontawesome)
     * [Icons plugin for React File Manager (Quix Page Builder Only|abandoned)](https://github.com/themexpert/react-filemanager-icons-plugin)
-* Closed Source
-    * Many...
 
 ### Contact
-* Facebook: [Rasel Rana Rocky](https://www.facebook.com/RockyThePhoenix)
+* [Facebook](https://www.facebook.com/LazyCrazyBusy)
+* [LinkedIn](https://www.linkedin.com/in/i-rocky)
+* [Upwork](https://www.upwork.com/freelancers/~0199c94700019a6981)
 * Email: smrockypk@gmail.com
