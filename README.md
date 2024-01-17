@@ -17,17 +17,20 @@ Research & Development Engineer
     * Vanilla JS
     * TypeScript
     * ES6+
-    * HTML5
-    * CSS3
+    * ~HTML5~
+    * ~CSS3~
 * Frameworks
     * Laravel
     * VueJS
     * React
     * Angular
+    * Django
 * Database
     * MySQL
-    * Postgres
+    * PostgreSQL
     * SQLite
+    * MongoDB
+    * Redis
     
 ### Works
 
@@ -53,5 +56,5 @@ Research & Development Engineer
 ### Contact
 * [Facebook](https://www.facebook.com/LazyCrazyBusy)
 * [LinkedIn](https://www.linkedin.com/in/i-rocky)
-* [Upwork](https://www.upwork.com/freelancers/~0199c94700019a6981)
+* [Toptal](https://www.toptal.com/resume/rasel-rana-rocky)
 * Email: smrockypk@gmail.com
