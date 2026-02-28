@@ -19,14 +19,22 @@
 
 ## ✅ Quick Compatibility (HR-friendly)
 
-- **Role fit:** Senior Software Engineer · Backend Engineer · Full-stack Engineer
-- **Primary stack:** **TypeScript · PHP · Go**
-- **Strengths:** System architecture, microservices, performance optimization, CI/CD, cloud infrastructure
-- **Leadership:** Led small engineering teams across remote/on-site engagements
+<div align="center">
+
+| Category | Details |
+|---|---|
+| **Role fit** | Senior Software Engineer · Backend Engineer · Full-stack Engineer |
+| **Primary stack** | **TypeScript · PHP · Go** |
+| **Strengths** | System architecture, microservices, performance optimization, CI/CD, cloud infrastructure |
+| **Leadership** | Led small engineering teams across remote/on-site engagements |
+
+</div>
 
 ---
 
 ## 🧠 Tech & Capability Map
+
+<div align="center">
 
 ### Core Engineering
 
@@ -86,6 +94,8 @@
 ![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square)
 ![Claude%20Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square)
 
+</div>
+
 ---
 
 ## 📦 Open-source Projects
@@ -105,11 +115,13 @@
 ## 📈 GitHub Profile Activity
 
 ```mermaid
-xychart-beta
-    title "Engineering Focus (Current)"
-    x-axis [Backend, Platform, DevTools, AI/ML, OSS]
-    y-axis "Intensity" 0 --> 10
-    bar [10, 9, 8, 8, 8]
+pie showData
+    title Engineering Focus (Current)
+    "Backend" : 30
+    "Platform" : 25
+    "DevTools" : 20
+    "AI/ML" : 15
+    "OSS" : 10
 ```
 
 ```mermaid
