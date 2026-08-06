@@ -32,23 +32,23 @@
 
 ## Projects
 
-<a href="https://github.com/i-rocky/pylon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=pylon&hide_border=true" alt="pylon" /></a>
-<a href="https://github.com/i-rocky/corvid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=corvid&hide_border=true" alt="corvid" /></a>
+<a href="https://github.com/i-rocky/pylon"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=pylon&hide_border=true" alt="pylon" /></a>
+<a href="https://github.com/i-rocky/corvid"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=corvid&hide_border=true" alt="corvid" /></a>
 <br>
-<a href="https://github.com/i-rocky/rembg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=rembg&hide_border=true" alt="rembg" /></a>
-<a href="https://github.com/i-rocky/nesco-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=nesco-monitor&hide_border=true" alt="nesco-monitor" /></a>
+<a href="https://github.com/i-rocky/rembg"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=rembg&hide_border=true" alt="rembg" /></a>
+<a href="https://github.com/i-rocky/nesco-monitor"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=nesco-monitor&hide_border=true" alt="nesco-monitor" /></a>
 <br>
-<a href="https://github.com/i-rocky/docker-win-net-connect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=docker-win-net-connect&hide_border=true" alt="docker-win-net-connect" /></a>
-<a href="https://github.com/i-rocky/country-list-js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=country-list-js&hide_border=true" alt="country-list-js" /></a>
+<a href="https://github.com/i-rocky/docker-win-net-connect"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=docker-win-net-connect&hide_border=true" alt="docker-win-net-connect" /></a>
+<a href="https://github.com/i-rocky/country-list-js"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=country-list-js&hide_border=true" alt="country-list-js" /></a>
 <br>
-<a href="https://github.com/i-rocky/x-zsh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=x-zsh&hide_border=true" alt="x-zsh" /></a>
-<a href="https://github.com/i-rocky/just-a-moment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=just-a-moment&hide_border=true" alt="just-a-moment" /></a>
+<a href="https://github.com/i-rocky/x-zsh"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=x-zsh&hide_border=true" alt="x-zsh" /></a>
+<a href="https://github.com/i-rocky/just-a-moment"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=just-a-moment&hide_border=true" alt="just-a-moment" /></a>
 <br>
-<a href="https://github.com/i-rocky/pixr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=pixr&hide_border=true" alt="pixr" /></a>
-<a href="https://github.com/i-rocky/caffeinate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=caffeinate&hide_border=true" alt="caffeinate" /></a>
+<a href="https://github.com/i-rocky/pixr"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=pixr&hide_border=true" alt="pixr" /></a>
+<a href="https://github.com/i-rocky/caffeinate"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=caffeinate&hide_border=true" alt="caffeinate" /></a>
 <br>
-<a href="https://github.com/i-rocky/lsof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=lsof&hide_border=true" alt="lsof" /></a>
-<a href="https://github.com/i-rocky/watch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-rocky&repo=watch&hide_border=true" alt="watch" /></a>
+<a href="https://github.com/i-rocky/lsof"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=lsof&hide_border=true" alt="lsof" /></a>
+<a href="https://github.com/i-rocky/watch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=i-rocky&repo=watch&hide_border=true" alt="watch" /></a>
 
 CLI tools ship via
 <a href="https://github.com/i-rocky/apt"><img src="https://img.shields.io/badge/apt-signed_repo-A81D33?style=flat-square&logo=debian&logoColor=white" alt="apt" /></a>
@@ -57,7 +57,7 @@ CLI tools ship via
 
 ## Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=i-rocky&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=i-rocky&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" alt="GitHub stats" />
 
 <br>
 
